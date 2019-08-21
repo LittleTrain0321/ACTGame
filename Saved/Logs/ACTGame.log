@@ -618,3 +618,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.21-11.30.56:643][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2019.08.21-11.30.56:800][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2019.08.21-11.30.56:966][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.08.21-11.33.32:245][604]LogDirectoryWatcher: A directory notification failed for 'G:/UE4Program/ACTGame/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.08.21-11.33.32:245][604]LogDirectoryWatcher: A directory notification failed for 'G:/UE4Program/ACTGame/Content/Developers/PC/Collections/' because it could not be accessed. Aborting watch request...
+[2019.08.21-11.33.32:245][604]LogDirectoryWatcher: A directory notification failed for 'G:/UE4Program/ACTGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.08.21-11.33.37:056][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.08.21-11.33.37:690][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.08.21-11.33.37:932][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.08.21-11.33.38:155][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
