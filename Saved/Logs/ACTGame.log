@@ -592,3 +592,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.21-10.29.33:165][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.08.21-10.29.33:180][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2019.08.21-10.29.33:200][557]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.08.21-10.30.34:052][825]LogHttp: Warning: 0000025452F70E00: request failed, libcurl error: 52 (Server returned nothing (no headers, no data))
+[2019.08.21-10.30.34:052][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 0 (  Trying 54.86.3.71...)
+[2019.08.21-10.30.34:052][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.08.21-10.30.34:052][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.86.3.71) port 443 (#0))
+[2019.08.21-10.30.34:052][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2019.08.21-10.30.34:052][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.08.21-10.30.34:052][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 6 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 10 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 11 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 13 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 14 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 15 (ALPN, server accepted to use http/1.1)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 16 (Server certificate:)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 17 ( subject: CN=*.ol.epicgames.com)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 18 ( start date: Feb 27 00:00:00 2019 GMT)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 19 ( expire date: Mar 27 12:00:00 2020 GMT)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 20 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 21 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 22 ( SSL certificate verify ok.)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 23 (We are completely uploaded and fine)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 24 (Empty reply from server)
+[2019.08.21-10.30.34:053][825]LogHttp: Warning: 0000025452F70E00: libcurl info message cache 25 (Connection #0 to host datarouter.ol.epicgames.com left intact)
+[2019.08.21-10.30.34:371][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B209F6E57-4E33-8048-B30F-70B875CF08D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b49382d34bbfa76601f290be459acaec%7C2d49d6f32d7b494fb6d05dbcfa35a539%7Cc3b3579e-2433-4bbd-9b7c-c194054f0e80&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.21-10.31.02:777][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-10.31.06:437][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.21-10.31.07:196][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.21-10.31.18:815][649]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.21-10.31.38:309][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.08.21-10.31.38:758][908]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonExampleMap9FB9A84B4E370DC598A82CBA587777B0.tmp' to 'G:/UE4Program/ACTGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.21-10.31.38:873][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="G:/UE4Program/ACTGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.08.21-10.31.39:052][908]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonExampleMap_BuiltData4AB128C34445D48BE04E62835D2E2DDC.tmp' to 'G:/UE4Program/ACTGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.08.21-10.31.51:360][ 87]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.21-10.31.52:406][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.08.21-10.31.52:519][204]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonExampleMap21CECE6B46A121C117DCB6AD8085003F.tmp' to 'G:/UE4Program/ACTGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.21-10.31.52:527][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="G:/UE4Program/ACTGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.08.21-10.31.52:634][204]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonExampleMap_BuiltData67EF28D143FC717DB10FE481C0350580.tmp' to 'G:/UE4Program/ACTGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
