@@ -625,3 +625,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.21-11.33.37:690][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2019.08.21-11.33.37:932][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
 [2019.08.21-11.33.38:155][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.08.21-11.42.03:318][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="G:/UE4Program/ACTGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.21-11.42.03:342][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.08.21-11.42.03:380][306]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/MainE743EDF64B868AE4A7E80A86D6C3D697.tmp' to 'G:/UE4Program/ACTGame/Content/Main.umap'
+[2019.08.21-11.42.03:381][306]LogFileHelpers: Saving map 'Main' took 0.064
+[2019.08.21-11.42.04:195][401]LogAssetEditorManager: Opening Asset editor for World /Game/Main.Main
+[2019.08.21-11.42.04:218][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.08.21-11.42.04:241][401]Cmd: MAP LOAD FILE="G:/UE4Program/ACTGame/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.21-11.42.04:241][401]LightingResults: New page: Lighting Build
+[2019.08.21-11.42.04:242][401]LoadErrors: New page: Loading map: Main.umap
+[2019.08.21-11.42.04:243][401]MapCheck: New page: Map Check
+[2019.08.21-11.42.04:243][401]LightingResults: New page: Lighting Build
+[2019.08.21-11.42.04:267][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.08.21-11.42.04:267][401]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.21-11.42.04:267][401]LogAIModule: Creating AISystem for world Main
+[2019.08.21-11.42.04:291][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.08.21-11.42.04:296][401]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.21-11.42.04:297][401]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2019.08.21-11.42.04:297][401]LogFileHelpers: Loading map 'Main' took 0.078
+[2019.08.21-11.42.06:007][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="G:/UE4Program/ACTGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.21-11.42.06:028][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.08.21-11.42.06:097][602]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Main94AABA824D906077496FC69D39496E67.tmp' to 'G:/UE4Program/ACTGame/Content/Main.umap'
+[2019.08.21-11.42.07:571][766]LogAssetEditorManager: Opening Asset editor for World /Game/Main.Main
+[2019.08.21-11.42.07:593][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.08.21-11.42.07:593][766]Cmd: MAP LOAD FILE="G:/UE4Program/ACTGame/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.21-11.42.07:594][766]LightingResults: New page: Lighting Build
+[2019.08.21-11.42.07:594][766]LoadErrors: New page: Loading map: Main.umap
+[2019.08.21-11.42.07:594][766]MapCheck: New page: Map Check
+[2019.08.21-11.42.07:594][766]LightingResults: New page: Lighting Build
+[2019.08.21-11.42.07:616][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.08.21-11.42.07:619][766]LogAIModule: Creating AISystem for world Main
+[2019.08.21-11.42.07:619][766]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.21-11.42.07:641][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.08.21-11.42.07:645][766]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.21-11.42.07:646][766]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2019.08.21-11.42.07:646][766]LogFileHelpers: Loading map 'Main' took 0.053
+[2019.08.21-11.42.12:154][110]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.08.21-11.42.16:754][500]LogSlate: Window 'New Level' being destroyed
+[2019.08.21-11.42.16:762][500]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.21-11.42.16:778][500]LightingResults: New page: Lighting Build
+[2019.08.21-11.42.16:778][500]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.08.21-11.42.16:780][500]MapCheck: New page: Map Check
+[2019.08.21-11.42.16:780][500]LightingResults: New page: Lighting Build
+[2019.08.21-11.42.16:800][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.08.21-11.42.16:815][500]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.21-11.42.16:822][500]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.21-11.42.16:843][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.08.21-11.42.16:848][500]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.21-11.42.16:849][500]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2019.08.21-11.42.16:849][500]LogFileHelpers: Loading map 'Template_Default' took 0.088
+[2019.08.21-11.42.24:087][967]LogSlate: Window 'Message' being destroyed
+[2019.08.21-11.42.24:093][967]LogSlate: Window 'Save Level As' being destroyed
+[2019.08.21-11.42.24:163][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.08.21-11.42.24:164][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="G:/UE4Program/ACTGame/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.21-11.42.24:185][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.08.21-11.42.24:280][967]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Main5F29AEA443CE27C6572DE688EA3D550B.tmp' to 'G:/UE4Program/ACTGame/Content/Main.umap'
+[2019.08.21-11.42.24:287][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="G:/UE4Program/ACTGame/Content/Main_BuiltData.uasset" SILENT=true
+[2019.08.21-11.42.24:296][967]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Main_BuiltData36A8FBE0405DCE2E1479EB89DA53A7DE.tmp' to 'G:/UE4Program/ACTGame/Content/Main_BuiltData.uasset'
+[2019.08.21-11.42.24:305][967]LogFileHelpers: Saving map 'Main' took 0.181
+[2019.08.21-11.43.07:132][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.08.21-11.43.07:608][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.08.21-11.43.07:749][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.08.21-11.43.07:875][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
