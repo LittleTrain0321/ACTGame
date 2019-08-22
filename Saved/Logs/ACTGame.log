@@ -1025,3 +1025,247 @@ Script call stack:
 [2019.08.22-04.51.50:729][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
 [2019.08.22-04.51.50:755][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2019.08.22-04.53.16:239][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.08.22-04.53.36:702][861]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.22-04.53.36:710][861]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.08.22-04.53.41:631][261]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-04.53.46:351][733]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-04.53.51:413][148]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.22-04.54.16:084][ 91]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.22-04.55.00:888][450]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.22-04.55.03:973][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.08.22-04.55.03:973][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.032
+[2019.08.22-04.55.03:976][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton] ([1] browsable assets)...
+[2019.08.22-04.55.03:976][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton]
+[2019.08.22-04.55.03:986][781]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton_Auto3D5228EBE4EED3EE1B719B7A57F3F603C.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton_Auto3.uasset'
+[2019.08.22-04.55.03:987][781]LogFileHelpers: Auto-saving content packages took 0.011
+[2019.08.22-04.55.05:105][909]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton5456E28A4A9BFF1BE297A896642B9B0B.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-04.55.05:619][966]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_SkeletonDE4C781E49E48C9BF65F78BF97C39D1A.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-04.55.05:826][986]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton30C8BDDD43995AA246347D8340A3FAC8.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-04.55.06:007][  3]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_SkeletonFA10869B4FF0234D61E12ABA43E88502.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-04.55.06:173][ 18]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_SkeletonE449D67C4C5B506A9A69B5BD06CEDAD3.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-04.55.16:080][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.22-04.55.16:085][163]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/UE4_Mannequin_Skeleton276F306E44A66BE5F9F997949382C558.tmp' to 'G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.22-04.55.20:394][574]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.22-04.55.22:396][761]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-04.55.34:079][  1]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.22-04.55.35:701][157]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.22-04.55.35:749][157]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/TwinbladesAnimsetBase/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.22-04.55.45:397][446]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.22-04.55.50:377][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.08.22-04.55.50:458][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.08.22-04.55.50:458][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:522][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.08.22-04.55.50:523][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:537][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.08.22-04.55.50:537][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:548][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.08.22-04.55.50:549][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:563][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.08.22-04.55.50:564][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:590][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.08.22-04.55.50:591][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:623][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.08.22-04.55.50:623][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:655][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.08.22-04.55.50:656][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:691][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.08.22-04.55.50:692][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:713][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.08.22-04.55.50:714][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:738][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.08.22-04.55.50:739][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:762][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.08.22-04.55.50:763][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:791][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonIdle.ThirdPersonIdle
+[2019.08.22-04.55.50:792][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:913][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonWalk.ThirdPersonWalk
+[2019.08.22-04.55.50:914][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:961][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonRun.ThirdPersonRun
+[2019.08.22-04.55.50:962][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.50:985][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonIdle.ThirdPersonIdle
+[2019.08.22-04.55.50:986][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.51:103][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonWalk.ThirdPersonWalk
+[2019.08.22-04.55.51:104][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.51:146][930]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonRun.ThirdPersonRun
+[2019.08.22-04.55.51:147][930]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.55.51:192][930]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-04.55.51:365][931]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2019.08.22-04.55.56:048][354]Cmd: TRANSACTION UNDO
+[2019.08.22-04.55.56:048][354]LogEditorTransaction: Undo Edit Retarget Base Pose
+[2019.08.22-04.55.56:203][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.55.56:203][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.55.58:151][514]Cmd: TRANSACTION UNDO
+[2019.08.22-04.55.58:151][514]LogEditorTransaction: Undo Edit Retarget Base Pose
+[2019.08.22-04.55.58:311][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.55.58:311][514]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.55.59:727][638]Cmd: TRANSACTION UNDO
+[2019.08.22-04.55.59:727][638]LogEditorTransaction: Undo Edit Retarget Base Pose
+[2019.08.22-04.55.59:895][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.55.59:896][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.00:001][646]Cmd: TRANSACTION UNDO
+[2019.08.22-04.56.00:001][646]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.56.00:165][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.00:166][646]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.00:252][652]Cmd: TRANSACTION UNDO
+[2019.08.22-04.56.00:252][652]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.56.00:414][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.00:415][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.00:631][670]Cmd: TRANSACTION UNDO
+[2019.08.22-04.56.00:631][670]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.56.00:793][670]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.00:793][670]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.01:027][689]Cmd: TRANSACTION UNDO
+[2019.08.22-04.56.01:027][689]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.56.01:191][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.01:192][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.01:389][705]Cmd: TRANSACTION UNDO
+[2019.08.22-04.56.01:389][705]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.56.01:552][705]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.01:552][705]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.02:899][820]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.02:899][820]LogEditorTransaction: Redo Change Bone Mappings
+[2019.08.22-04.56.03:064][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:065][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:089][821]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.03:089][821]LogEditorTransaction: Redo Change Bone Mappings
+[2019.08.22-04.56.03:256][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:256][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:261][821]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.03:261][821]LogEditorTransaction: Redo Change Bone Mappings
+[2019.08.22-04.56.03:426][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:427][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:432][821]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.03:432][821]LogEditorTransaction: Redo Change Bone Mappings
+[2019.08.22-04.56.03:595][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:596][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:603][821]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.03:603][821]LogEditorTransaction: Redo Change Bone Mappings
+[2019.08.22-04.56.03:766][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:766][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:773][821]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.03:773][821]LogEditorTransaction: Redo Edit Retarget Base Pose
+[2019.08.22-04.56.03:937][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:937][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.03:942][821]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.03:942][821]LogEditorTransaction: Redo Edit Retarget Base Pose
+[2019.08.22-04.56.04:104][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.04:105][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.04:109][821]Cmd: TRANSACTION REDO
+[2019.08.22-04.56.04:109][821]LogEditorTransaction: Redo Edit Retarget Base Pose
+[2019.08.22-04.56.04:270][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.04:271][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.11:214][400]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Player/Anim/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.08.22-04.56.11:239][400]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.56.11:581][400]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.56.32:759][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.08.22-04.56.35:644][422]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-04.56.42:094][422]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Player/Anim/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+	Asset Name: /Game/Player/Anim/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+	Asset Name: /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+	Asset Name: /Game/Player/Anim/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/Player/Anim/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/Player/Anim/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/Player/Anim/ThirdPersonRun.ThirdPersonRun
+	Asset Name: /Game/Player/Anim/ThirdPersonWalk.ThirdPersonWalk
+[2019.08.22-04.56.44:419][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.08.22-04.57.39:230][533]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.22-04.57.48:168][281]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.22-04.58.16:346][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.22-04.58.16:360][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.08.22-04.58.16:361][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:375][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.08.22-04.58.16:375][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:390][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.08.22-04.58.16:391][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:421][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.08.22-04.58.16:422][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:458][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.08.22-04.58.16:458][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:482][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.08.22-04.58.16:483][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:511][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonIdle.ThirdPersonIdle
+[2019.08.22-04.58.16:512][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:628][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonWalk.ThirdPersonWalk
+[2019.08.22-04.58.16:629][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:674][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/ThirdPersonRun.ThirdPersonRun
+[2019.08.22-04.58.16:675][808]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-04.58.16:721][808]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-04.58.17:526][811]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2019.08.22-04.58.41:358][871]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/Anim/ThirdPersonIdle.ThirdPersonIdle
+[2019.08.22-04.58.41:439][871]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.08.22-04.58.41:457][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.58.41:481][871]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.58.43:765][982]LogSlate: Window 'ThirdPersonIdle' being destroyed
+[2019.08.22-04.58.57:603][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPersonIdle" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonIdle.uasset" SILENT=true
+[2019.08.22-04.58.57:616][429]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonIdle3C61C1744133BBF350207B944B474DFC.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonIdle.uasset'
+[2019.08.22-04.58.58:436][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPersonIdle" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonIdle.uasset" SILENT=true
+[2019.08.22-04.58.58:443][506]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonIdle57714D404B1DD1DBBF0208B884CFE69A.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonIdle.uasset'
+[2019.08.22-04.59.01:391][774]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Player/Anim/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.08.22-04.59.01:410][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.59.01:707][774]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.59.14:928][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.59.17:698][428]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/Anim/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.08.22-04.59.17:757][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.59.17:772][428]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.59.22:873][836]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/Anim/ThirdPersonIdle.ThirdPersonIdle
+[2019.08.22-04.59.22:887][836]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.59.22:901][836]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.59.29:209][402]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/Anim/ThirdPersonWalk.ThirdPersonWalk
+[2019.08.22-04.59.29:223][402]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.59.29:237][402]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-05.00.41:564][781]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.22-05.05.04:445][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.05.18:816][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPersonWalk" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonWalk.uasset" SILENT=true
+[2019.08.22-05.05.18:829][239]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonWalk1717CF224453B216692563A0EA099C0D.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonWalk.uasset'
+[2019.08.22-05.05.21:022][453]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2019.08.22-05.05.22:393][453]LogSlate: Window 'Save Content' being destroyed
+[2019.08.22-05.05.22:415][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.22-05.05.22:434][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/UE4_Mannequin_SkeletonF38B98BC4B5B50F536BFE2B9D5122E70.tmp' to 'G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.22-05.05.22:448][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_SkeletonFAEA6C9247DCFFA1B3C2349E019AD11E.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-05.05.22:468][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPerson_AnimBP" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPerson_AnimBP.uasset" SILENT=true
+[2019.08.22-05.05.22:561][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPerson_AnimBP08854FEB4D722C5288F8E998AC12CC6D.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPerson_AnimBP.uasset'
+[2019.08.22-05.05.22:579][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPerson_IdleRun_2D" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPerson_IdleRun_2D.uasset" SILENT=true
+[2019.08.22-05.05.22:589][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPerson_IdleRun_2D7BB91B3749A6AD3CD98BCA9345549AFB.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPerson_IdleRun_2D.uasset'
+[2019.08.22-05.05.22:606][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPerson_Jump" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPerson_Jump.uasset" SILENT=true
+[2019.08.22-05.05.22:619][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPerson_JumpFA8D61D943A4E5974621E99072ADE0AA.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPerson_Jump.uasset'
+[2019.08.22-05.05.22:637][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPersonJump_Loop" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonJump_Loop.uasset" SILENT=true
+[2019.08.22-05.05.22:650][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonJump_Loop57FBBB7E4B91D9D35845FAB9598E489F.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonJump_Loop.uasset'
+[2019.08.22-05.05.22:668][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPersonJump_Start" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonJump_Start.uasset" SILENT=true
+[2019.08.22-05.05.22:681][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonJump_Start381F8D494250BE4B278645BE1389CA75.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonJump_Start.uasset'
+[2019.08.22-05.05.22:699][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/ThirdPersonRun" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonRun.uasset" SILENT=true
+[2019.08.22-05.05.22:712][453]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonRun045777534D86A1B6FF7706AB90EFCCC3.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/ThirdPersonRun.uasset'
+[2019.08.22-05.05.40:079][322]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2019.08.22-05.05.47:763][ 51]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.Revenant
+[2019.08.22-05.05.47:777][ 51]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-05.05.47:795][ 51]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-05.06.09:117][378]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2019.08.22-05.06.09:118][378]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2019.08.22-05.06.09:119][378]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2019.08.22-05.06.09:119][378]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Revenant_Skeleton, removing AnimBP from actor.
+[2019.08.22-05.06.33:915][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.06.47:067][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.06.47:159][858]BlueprintLog: New page: Compile BP_Player
+[2019.08.22-05.06.47:460][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2019.08.22-05.06.48:450][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset" SILENT=true
+[2019.08.22-05.06.48:490][967]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/BP_Player7F3A0564484BA45560BECFA03FDADACC.tmp' to 'G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset'
+[2019.08.22-05.07.25:640][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.08.22-05.07.27:516][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.07.30:486][984]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.08.22-05.07.38:803][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.08.22-05.07.38:804][920]LogMetaData: Removing '/Game/Player/MyGameMode.MyGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Player/MyGame.PackageMetaData'
+[2019.08.22-05.07.38:804][920]LogMetaData: Removing '/Game/Player/MyGameMode.SKEL_MyGameMode_C' ref from Metadata '/Game/Player/MyGame.PackageMetaData'
+[2019.08.22-05.07.38:804][920]LogMetaData: Removing '/Game/Player/MyGameMode.MyGameMode_C' ref from Metadata '/Game/Player/MyGame.PackageMetaData'
+[2019.08.22-05.07.38:804][920]LogMetaData: Removing '/Game/Player/MyGameMode.MyGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Player/MyGame.PackageMetaData'
+[2019.08.22-05.07.38:804][920]LogMetaData: Removing '/Game/Player/MyGameMode.MyGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Player/MyGame.PackageMetaData'
+[2019.08.22-05.07.38:823][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/MyGameMode" FILE="G:/UE4Program/ACTGame/Content/Player/MyGameMode.uasset" SILENT=true
+[2019.08.22-05.07.38:829][920]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/MyGameModeF354D08A428F7A60B6E875A5F1DBEE04.tmp' to 'G:/UE4Program/ACTGame/Content/Player/MyGameMode.uasset'
+[2019.08.22-05.07.38:990][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.08.22-05.07.39:030][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.08.22-05.07.39:062][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.08.22-05.07.46:752][465]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.22-05.08.21:494][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.08.22-05.08.21:495][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Main_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.08.22-05.08.21:708][615]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Main_Auto489A05E174F5A16EFBA29D2B7548C53B0.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Main_Auto4.umap'
+[2019.08.22-05.08.21:710][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.247
+[2019.08.22-05.08.21:710][615]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.247
