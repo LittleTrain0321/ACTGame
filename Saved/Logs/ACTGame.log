@@ -754,3 +754,274 @@ Script call stack:
 [2019.08.22-04.32.24:819][ 52]LogDirectoryWatcher: A directory notification failed for 'G:/UE4Program/ACTGame/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.08.22-04.32.24:819][ 52]LogDirectoryWatcher: A directory notification failed for 'G:/UE4Program/ACTGame/Content/Developers/PC/Collections/' because it could not be accessed. Aborting watch request...
 [2019.08.22-04.32.24:819][ 52]LogDirectoryWatcher: A directory notification failed for 'G:/UE4Program/ACTGame/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.08.22-04.33.57:316][276]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.08.22-04.33.59:028][276]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.22-04.36.13:590][595]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.22-04.36.13:591][595]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.08.22-04.36.13:666][599]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.22-04.36.13:677][599]LogSlate: Window 'Project Settings' being destroyed
+[2019.08.22-04.36.49:847][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.37.20:292][  2]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.22-04.37.32:432][420]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.22-04.37.36:298][873]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.22-04.37.37:316][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.37.45:765][888]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.22-04.37.59:749][531]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.08.22-04.38.02:545][531]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.22-04.38.02:619][531]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.22-04.38.02:681][531]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Player/BP_Player.BP_Player
+[2019.08.22-04.38.10:691][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2019.08.22-04.38.10:735][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.08.22-04.38.10:762][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.08.22-04.38.17:000][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.08.22-04.38.30:396][738]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.Revenant
+[2019.08.22-04.38.30:445][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.38.30:501][738]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.39.12:302][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.39.12:411][863]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.Revenant_Skeleton
+[2019.08.22-04.39.12:426][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.39.12:445][863]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.39.47:076][518]LogSlate: Window 'Save Mapping' being destroyed
+[2019.08.22-04.40.09:050][610]LogSlate: Window 'Revenant' being destroyed
+[2019.08.22-04.40.09:054][610]LogSlate: Window 'Revenant' being destroyed
+[2019.08.22-04.40.25:418][455]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.22-04.40.25:425][455]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.40.25:438][455]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.22-04.41.12:047][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.22-04.41.12:047][  6]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.032
+[2019.08.22-04.41.12:082][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton] ([1] browsable assets)...
+[2019.08.22-04.41.12:082][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton]
+[2019.08.22-04.41.12:093][  6]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton_Auto25285EE8B4D8F84E8174B01A3F858BFCD.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton_Auto2.uasset'
+[2019.08.22-04.41.12:095][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.08.22-04.41.12:095][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.08.22-04.41.12:100][  6]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/UE4_Mannequin_Skeleton_Auto24DBAC1674F7DC99D67EFC29C31EDA62F.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto2.uasset'
+[2019.08.22-04.41.12:102][  6]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.08.22-04.41.12:154][  6]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.08.22-04.41.12:154][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/ThirdPersonCharacter]
+[2019.08.22-04.41.12:154][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/ThirdPersonCharacter" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/ThirdPersonCharacter_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.22-04.41.12:316][  6]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonCharacter_Auto200C8BAB143AA6C7891BD76A86C545A38.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/ThirdPersonCharacter_Auto2.uasset'
+[2019.08.22-04.41.12:317][  6]LogFileHelpers: Auto-saving content packages took 0.269
+[2019.08.22-04.41.56:641][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.42.03:359][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.42.06:980][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.42.08:894][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.42.12:478][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.42.13:017][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.42.13:401][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.42.15:318][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.42.19:791][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.42.36:851][601]Cmd: TRANSACTION UNDO
+[2019.08.22-04.42.36:851][601]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.42.37:017][601]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.42.37:036][601]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.15:393][523]Cmd: TRANSACTION UNDO
+[2019.08.22-04.43.15:393][523]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.43.15:568][523]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.15:568][523]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.17:476][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.43.43:566][409]Cmd: TRANSACTION UNDO
+[2019.08.22-04.43.43:566][409]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.43.43:734][409]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.43:735][409]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.44:007][425]Cmd: TRANSACTION UNDO
+[2019.08.22-04.43.44:007][425]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.43.44:183][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.44:183][425]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.58:324][885]Cmd: TRANSACTION UNDO
+[2019.08.22-04.43.58:324][885]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.43.58:494][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.43.58:494][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.03:113][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: request failed, libcurl error: 28 (Timeout was reached)
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 0 (Connection 10 seems to be dead!)
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 1 (Closing connection 10)
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 3 (  Trying 34.235.243.192...)
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (34.235.243.192) port 443 (#11))
+[2019.08.22-04.44.05:991][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2019.08.22-04.44.05:992][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.08.22-04.44.05:992][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 8 (SSL re-using session ID)
+[2019.08.22-04.44.05:992][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.08.22-04.44.05:992][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2019.08.22-04.44.05:992][673]LogHttp: Warning: 000001E4F3B434C0: libcurl info message cache 11 (Closing connection 11)
+[2019.08.22-04.44.06:002][674]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F083F1C-4A84-9BD7-F477-8CB361D872A5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b49382d34bbfa76601f290be459acaec%7C2d49d6f32d7b494fb6d05dbcfa35a539%7Cc3b3579e-2433-4bbd-9b7c-c194054f0e80&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.22-04.44.08:791][960]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.08:791][960]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.44.08:963][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.08:963][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.09:013][962]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.09:013][962]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.44.09:189][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.09:190][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:016][ 53]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.10:016][ 53]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.44.10:200][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:200][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:227][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.10:227][ 55]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.44.10:404][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:405][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:408][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.10:408][ 55]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.44.10:589][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:590][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:593][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.10:593][ 55]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.44.10:769][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:769][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:773][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.10:773][ 55]LogEditorTransaction: Undo Edit Retarget Base Pose
+[2019.08.22-04.44.10:948][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:948][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.10:951][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.10:951][ 55]LogEditorTransaction: Undo Edit Retarget Base Pose
+[2019.08.22-04.44.11:127][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:128][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:132][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.11:132][ 55]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.11:438][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:439][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:443][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.11:443][ 55]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.11:620][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:620][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:624][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.11:624][ 55]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.11:804][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:805][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:808][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.11:808][ 55]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.11:987][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:988][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.11:992][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.11:992][ 55]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.12:174][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.12:174][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.12:179][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.12:179][ 55]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.12:365][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.12:365][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.12:369][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.12:369][ 55]LogEditorTransaction: Undo Select Rig
+[2019.08.22-04.44.12:550][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.12:551][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.12:556][ 55]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.12:556][ 55]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.12:557][ 55]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.12:750][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.12:751][ 55]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.14:251][100]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.14:251][100]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.14:252][100]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.14:419][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.14:420][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.14:462][103]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.14:462][103]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.14:463][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.14:643][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.14:643][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.14:648][103]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.14:648][103]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.14:649][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.14:828][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.14:829][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.14:833][103]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.14:833][103]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.14:834][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.15:013][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:014][103]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:355][133]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.15:355][133]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.15:356][133]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.15:539][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:540][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:544][133]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.15:544][133]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.15:544][133]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.15:723][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:723][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:729][133]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.15:729][133]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.15:730][133]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.15:911][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:912][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.15:916][133]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.15:916][133]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.15:917][133]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.16:100][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.16:100][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.16:104][133]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.16:104][133]LogEditorTransaction: Undo Change Bone Mappings
+[2019.08.22-04.44.16:105][133]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonRevenant/Characters/Heroes/Revenant/Revenant_AnimBlueprint.Revenant_AnimBlueprint_C:ExecuteUbergraph_Revenant_AnimBlueprint
+
+[2019.08.22-04.44.16:289][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.16:289][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.18:959][390]Cmd: TRANSACTION UNDO
+[2019.08.22-04.44.18:959][390]LogEditorTransaction: Undo Rotate Bone
+[2019.08.22-04.44.19:128][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.19:129][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-04.44.29:086][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.44.40:950][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-04.44.40:959][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.22-04.44.40:962][609]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/UE4_Mannequin_Skeleton16DEB5A44B883C0024B22B9BAD5279CA.tmp' to 'G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.22-04.44.41:431][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.45.44:933][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.49.44:521][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.08.22-04.49.44:558][454]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton665F9C4D4F88C1E599035096B361870E.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-04.49.45:100][454]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant96427E50464F75431EE4159783E269EE.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.uasset'
+[2019.08.22-04.49.45:126][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2019.08.22-04.49.45:197][454]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SK_Mannequin3F7734AC4E1B877F3694F98641FAC1B6.tmp' to 'G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2019.08.22-04.49.45:207][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/ThirdPersonCharacter" FILE="G:/UE4Program/ACTGame/Content/Player/ThirdPersonCharacter.uasset" SILENT=true
+[2019.08.22-04.49.45:241][454]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ThirdPersonCharacterBBCFCC5E4316711A597FBC9C300FA086.tmp' to 'G:/UE4Program/ACTGame/Content/Player/ThirdPersonCharacter.uasset'
+[2019.08.22-04.50.07:385][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.51.43:825][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-04.51.50:385][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.08.22-04.51.50:389][547]LogMetaData: Removing '/Game/Player/BP_Player.SKEL_BP_Player_C' ref from Metadata '/Game/Player/ThirdPersonCharacter.PackageMetaData'
+[2019.08.22-04.51.50:390][547]LogMetaData: Removing '/Game/Player/BP_Player.BP_Player_C' ref from Metadata '/Game/Player/ThirdPersonCharacter.PackageMetaData'
+[2019.08.22-04.51.50:499][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset" SILENT=true
+[2019.08.22-04.51.50:547][547]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/BP_Player9CDE7A6946B2B575F9254BAA25D4D9ED.tmp' to 'G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset'
+[2019.08.22-04.51.50:695][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.22-04.51.50:729][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.08.22-04.51.50:755][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.08.22-04.53.16:239][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
