@@ -1218,3 +1218,199 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.22-05.45.45:937][417]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/TwinSword_Attack11F14E19524D813D48EA381FB7508940AF.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Sword/Special/TwinSword_Attack11.uasset'
 [2019.08.22-05.45.45:954][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Sword/Special/TwinSword_Attack12" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Sword/Special/TwinSword_Attack12.uasset" SILENT=true
 [2019.08.22-05.45.45:966][417]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/TwinSword_Attack125F52338F4D8089AF26C51D95F63214B7.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Sword/Special/TwinSword_Attack12.uasset'
+[2019.08.22-05.46.19:987][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.22-05.46.29:524][ 77]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.22-05.46.33:492][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack11.Twinblades_Attack11
+[2019.08.22-05.46.33:493][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack11) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:496][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack11.Twinblades_Attack11
+[2019.08.22-05.46.33:497][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack11) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:504][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack11.Twinblades_Attack11
+[2019.08.22-05.46.33:505][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack11) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:508][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack11.Twinblades_Attack11
+[2019.08.22-05.46.33:509][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack11) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:517][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack12.Twinblades_Attack12
+[2019.08.22-05.46.33:518][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack12) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:520][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack12.Twinblades_Attack12
+[2019.08.22-05.46.33:521][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack12) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:529][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack12.Twinblades_Attack12
+[2019.08.22-05.46.33:530][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack12) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:532][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack12.Twinblades_Attack12
+[2019.08.22-05.46.33:533][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack12) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:540][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack13.Twinblades_Attack13
+[2019.08.22-05.46.33:541][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack13) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:544][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack13.Twinblades_Attack13
+[2019.08.22-05.46.33:545][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack13) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:553][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack13.Twinblades_Attack13
+[2019.08.22-05.46.33:554][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack13) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:556][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack13.Twinblades_Attack13
+[2019.08.22-05.46.33:557][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack13) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:565][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack14.Twinblades_Attack14
+[2019.08.22-05.46.33:566][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack14) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:568][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack14.Twinblades_Attack14
+[2019.08.22-05.46.33:569][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack14) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:577][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack14.Twinblades_Attack14
+[2019.08.22-05.46.33:578][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack14) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:580][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack14.Twinblades_Attack14
+[2019.08.22-05.46.33:581][111]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack14) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.46.33:588][111]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-05.47.32:455][194]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.22-05.47.45:020][398]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.22-05.47.46:652][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack3.Twinblades_SPAttack3
+[2019.08.22-05.47.46:653][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack3) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:656][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack3.Twinblades_SPAttack3
+[2019.08.22-05.47.46:656][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack3) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:664][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack3.Twinblades_SPAttack3
+[2019.08.22-05.47.46:665][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack3) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:668][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack3.Twinblades_SPAttack3
+[2019.08.22-05.47.46:669][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack3) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:678][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack4.Twinblades_SPAttack4
+[2019.08.22-05.47.46:679][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack4) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:683][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack4.Twinblades_SPAttack4
+[2019.08.22-05.47.46:684][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack4) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:695][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack4.Twinblades_SPAttack4
+[2019.08.22-05.47.46:695][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack4) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:699][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack4.Twinblades_SPAttack4
+[2019.08.22-05.47.46:700][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack4) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:709][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack17.Twinblades_Attack17
+[2019.08.22-05.47.46:710][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack17) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:713][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack17.Twinblades_Attack17
+[2019.08.22-05.47.46:714][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack17) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:721][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack17.Twinblades_Attack17
+[2019.08.22-05.47.46:722][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack17) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:724][564]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack17.Twinblades_Attack17
+[2019.08.22-05.47.46:725][564]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack17) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.47.46:732][564]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: request failed, libcurl error: 35 (SSL connect error)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 0 (Connection 6 seems to be dead!)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 1 (Closing connection 6)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 3 (  Trying 54.88.250.173...)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (54.88.250.173) port 443 (#7))
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 8 (SSL re-using session ID)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 10 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: 000001A1EE00A700: libcurl info message cache 11 (Closing connection 7)
+[2019.08.22-05.48.15:255][936]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5B851AD2-47DD-DA49-D3A1-7195A15103CB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=b49382d34bbfa76601f290be459acaec%7C2d49d6f32d7b494fb6d05dbcfa35a539%7Cc3b3579e-2433-4bbd-9b7c-c194054f0e80&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.22-05.49.17:898][360]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.22-05.49.24:239][557]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.08.22-05.49.25:543][709]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack18.Twinblades_Attack18
+[2019.08.22-05.49.25:544][709]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack18) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.49.25:546][709]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack18.Twinblades_Attack18
+[2019.08.22-05.49.25:547][709]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack18) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.49.25:552][709]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack18.Twinblades_Attack18
+[2019.08.22-05.49.25:553][709]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack18) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.49.25:555][709]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack18.Twinblades_Attack18
+[2019.08.22-05.49.25:555][709]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack18) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.49.25:562][709]LogSlate: Window 'Select Skeleton' being destroyed
+[2019.08.22-05.50.57:511][552]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack3.Twinblades_SPAttack3
+[2019.08.22-05.51.33:463][789]Cmd: TRANSACTION UNDO
+[2019.08.22-05.51.33:463][789]LogEditorTransaction: Undo Delete selected sockets/meshes/bones from skeleton tree
+[2019.08.22-05.51.33:602][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-05.51.33:736][802]Cmd: TRANSACTION UNDO
+[2019.08.22-05.51.33:736][802]LogEditorTransaction: Undo Delete selected sockets/meshes/bones from skeleton tree
+[2019.08.22-05.51.33:840][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-05.52.31:934][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.52.45:886][597]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack18.Twinblades_Attack18
+[2019.08.22-05.53.20:483][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.54.02:695][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.54.28:326][ 46]Cmd: TRANSACTION UNDO
+[2019.08.22-05.54.28:326][ 46]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2019.08.22-05.54.28:421][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.22-05.54.53:308][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.54.59:313][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.55.06:185][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.55.12:121][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.55.20:548][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.55.25:632][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.22-05.55.29:759][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.22-05.55.29:780][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/Twinblades_Attack18" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_Attack18.uasset" SILENT=true
+[2019.08.22-05.55.29:781][ 21]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack18.Twinblades_Attack18
+[2019.08.22-05.55.29:782][ 21]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack18) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.55.29:794][ 21]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack18023FCE9A46B98DBDD29308B445904800.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_Attack18.uasset'
+[2019.08.22-05.55.31:405][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/Twinblades_Attack18" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_Attack18.uasset" SILENT=true
+[2019.08.22-05.55.31:411][197]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack18AC42FFAD4BACBF95E11529B2D7EC16BC.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_Attack18.uasset'
+[2019.08.22-05.56.01:150][406]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.22-05.56.01:156][406]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.08.22-05.56.05:620][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.08.22-05.56.05:620][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.027
+[2019.08.22-05.56.05:622][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton] ([1] browsable assets)...
+[2019.08.22-05.56.05:622][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton]
+[2019.08.22-05.56.05:635][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton_Auto1E73BFBD54DE86F8BE6E34C802B26DFA1.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton_Auto1.uasset'
+[2019.08.22-05.56.05:636][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant] ([1] browsable assets)...
+[2019.08.22-05.56.05:651][759]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.Revenant]
+[2019.08.22-05.56.05:651][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant]
+[2019.08.22-05.56.06:314][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Auto1B992DF5948783C907493A489D4C1D126.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Auto1.uasset'
+[2019.08.22-05.56.06:315][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.08.22-05.56.06:315][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.08.22-05.56.06:321][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/UE4_Mannequin_Skeleton_Auto120E61FBA4399D13FABF5E18BDEEF9279.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2019.08.22-05.56.06:323][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Twinblades_Attack11] ([1] browsable assets)...
+[2019.08.22-05.56.06:339][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack11.Twinblades_Attack11]
+[2019.08.22-05.56.06:340][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Twinblades_Attack11]
+[2019.08.22-05.56.06:340][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack11" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack11_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.22-05.56.06:341][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack11.Twinblades_Attack11
+[2019.08.22-05.56.06:342][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack11) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.56.06:357][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack11_Auto1B1121A4B468D380D24F35CAA2AD5F060.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack11_Auto1.uasset'
+[2019.08.22-05.56.06:358][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Twinblades_Attack12] ([1] browsable assets)...
+[2019.08.22-05.56.06:374][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack12.Twinblades_Attack12]
+[2019.08.22-05.56.06:374][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Twinblades_Attack12]
+[2019.08.22-05.56.06:374][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack12" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack12_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.22-05.56.06:376][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack12.Twinblades_Attack12
+[2019.08.22-05.56.06:377][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack12) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.56.06:391][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack12_Auto1D2ACCCFF40440C70E28A9A96B89FD083.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack12_Auto1.uasset'
+[2019.08.22-05.56.06:392][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Twinblades_Attack13] ([1] browsable assets)...
+[2019.08.22-05.56.06:409][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack13.Twinblades_Attack13]
+[2019.08.22-05.56.06:410][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Twinblades_Attack13]
+[2019.08.22-05.56.06:410][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack13" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack13_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.22-05.56.06:411][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack13.Twinblades_Attack13
+[2019.08.22-05.56.06:412][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack13) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.56.06:426][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack13_Auto17F6745504CFA1235FDD516B0C1379A55.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack13_Auto1.uasset'
+[2019.08.22-05.56.06:427][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Twinblades_Attack14] ([1] browsable assets)...
+[2019.08.22-05.56.06:444][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack14.Twinblades_Attack14]
+[2019.08.22-05.56.06:444][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Twinblades_Attack14]
+[2019.08.22-05.56.06:444][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack14" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack14_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.22-05.56.06:445][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Twinblades_Attack14.Twinblades_Attack14
+[2019.08.22-05.56.06:446][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack14) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.56.06:461][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack14_Auto1EEB36D524F686BE11982CCA3F6EFB9B8.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Twinblades_Attack14_Auto1.uasset'
+[2019.08.22-05.56.06:462][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Special/Twinblades_SPAttack3] ([1] browsable assets)...
+[2019.08.22-05.56.06:479][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack3.Twinblades_SPAttack3]
+[2019.08.22-05.56.06:479][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Special/Twinblades_SPAttack3]
+[2019.08.22-05.56.06:480][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack3.Twinblades_SPAttack3
+[2019.08.22-05.56.06:481][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack3) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.56.06:497][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_SPAttack3_Auto1C435A0674CE3E989601A15AED397215D.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Special/Twinblades_SPAttack3_Auto1.uasset'
+[2019.08.22-05.56.06:498][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Special/Twinblades_SPAttack4] ([1] browsable assets)...
+[2019.08.22-05.56.06:515][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack4.Twinblades_SPAttack4]
+[2019.08.22-05.56.06:515][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Special/Twinblades_SPAttack4]
+[2019.08.22-05.56.06:517][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_SPAttack4.Twinblades_SPAttack4
+[2019.08.22-05.56.06:519][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_SPAttack4) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.56.06:537][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_SPAttack4_Auto181EC875E433017C508AF5684FAA8D751.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Special/Twinblades_SPAttack4_Auto1.uasset'
+[2019.08.22-05.56.06:538][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Special/Twinblades_Attack17] ([1] browsable assets)...
+[2019.08.22-05.56.06:554][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack17.Twinblades_Attack17]
+[2019.08.22-05.56.06:554][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Special/Twinblades_Attack17]
+[2019.08.22-05.56.06:555][759]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/Anim/Blade/Special/Twinblades_Attack17.Twinblades_Attack17
+[2019.08.22-05.56.06:556][759]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Twinblades_Attack17) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.22-05.56.06:572][759]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack17_Auto1E9D059EC429281E5613655AC71F3A829.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Special/Twinblades_Attack17_Auto1.uasset'
+[2019.08.22-05.56.06:573][759]LogFileHelpers: Auto-saving content packages took 0.951
+[2019.08.22-05.56.19:122][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.08.22-05.56.22:493][237]LogSlate: Window 'Save Content' being destroyed
+[2019.08.22-05.56.22:514][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.22-05.56.22:520][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/UE4_Mannequin_Skeleton5132229540BEA0E57CB3808DE99A2AAA.tmp' to 'G:/UE4Program/ACTGame/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.22-05.56.23:016][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant0FBC548D42D41CCBBDD746BA34DDFBC5.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant.uasset'
+[2019.08.22-05.56.23:033][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton0FB11DBD4F33A68527B68FA639B25ED6.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.22-05.56.23:038][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/Twinblades_Attack17" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_Attack17.uasset" SILENT=true
+[2019.08.22-05.56.23:043][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack17A25D776E48B4DD411CAA62A921D3BA28.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_Attack17.uasset'
+[2019.08.22-05.56.23:048][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/Twinblades_SPAttack3" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_SPAttack3.uasset" SILENT=true
+[2019.08.22-05.56.23:053][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_SPAttack3FBDCBA2249FB1D61F22793BDB4F9C641.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_SPAttack3.uasset'
+[2019.08.22-05.56.23:057][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/Twinblades_SPAttack4" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_SPAttack4.uasset" SILENT=true
+[2019.08.22-05.56.23:062][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_SPAttack4653C137149B77300E94065A5AF9F970A.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/Twinblades_SPAttack4.uasset'
+[2019.08.22-05.56.23:067][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack11" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack11.uasset" SILENT=true
+[2019.08.22-05.56.23:072][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack11FF92004A4C91C6B1CB99EBA0BE0ED64E.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack11.uasset'
+[2019.08.22-05.56.23:078][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack12" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack12.uasset" SILENT=true
+[2019.08.22-05.56.23:083][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack12DDF5B74D40F4C87F41B68199D43D31D1.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack12.uasset'
+[2019.08.22-05.56.23:088][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack13" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack13.uasset" SILENT=true
+[2019.08.22-05.56.23:092][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack13FE8BF6F54560882BBE9FDCBA2DF2AD8A.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack13.uasset'
+[2019.08.22-05.56.23:097][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Twinblades_Attack14" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack14.uasset" SILENT=true
+[2019.08.22-05.56.23:102][237]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Twinblades_Attack149AF6231F467A27F7378900AEB55FD70C.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Twinblades_Attack14.uasset'
+[2019.08.22-05.56.24:874][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
