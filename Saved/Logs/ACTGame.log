@@ -1041,3 +1041,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.24-05.09.39:660][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="G:/UE4Program/ACTGame/Content/Main_BuiltData.uasset" SILENT=true
 [2019.08.24-05.09.39:674][279]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Main_BuiltData36BF202B478783DFDF8420BAD5152FCF.tmp' to 'G:/UE4Program/ACTGame/Content/Main_BuiltData.uasset'
 [2019.08.24-05.09.41:784][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.08.24-05.11.26:434][473]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Player/Anim/Blade/Special/SATK1_Blade_Montage.SATK1_Blade_Montage
+[2019.08.24-05.11.26:450][473]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.24-05.11.26:477][473]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.24-05.11.26:899][473]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.08.24-05.11.26:920][473]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.24-05.11.29:111][713]LogSlate: Window 'SATK1_Blade_Montage' being destroyed
+[2019.08.24-05.11.48:876][375]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.24-05.12.19:924][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK1_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK1_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.12.19:939][ 57]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK1_Blade_MontageD3DC5BDF42F6A4900DA67496CC5185F3.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK1_Blade_Montage.uasset'
+[2019.08.24-05.12.48:444][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK2_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK2_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.12.48:458][431]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK2_Blade_MontageC6AB885B4E3B36C164C3A1B84622E9CE.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK2_Blade_Montage.uasset'
+[2019.08.24-05.13.14:206][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK3_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK3_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.13.14:221][485]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK3_Blade_MontageAA32E9E145FB2DE6E999AAAE67755980.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK3_Blade_Montage.uasset'
+[2019.08.24-05.13.49:067][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.14.14:003][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.14.17:070][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.24-05.14.17:077][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.14.17:087][879]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK4_Blade_MontageBF5596CA4F8745BA1CDCFFBB23F1C82B.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset'
+[2019.08.24-05.14.19:943][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.14.42:623][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.14.42:637][876]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK4_Blade_Montage39FD49B947F01231005C679ED0D442EB.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset'
+[2019.08.24-05.14.43:119][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.14.43:125][931]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK4_Blade_Montage0373E2554BD7855422E9D38FD4050FD2.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset'
+[2019.08.24-05.14.43:298][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.14.43:305][949]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK4_Blade_Montage6E3DBCD44DBA3EC854EB1F9146CADE54.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset'
+[2019.08.24-05.14.43:467][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.14.43:474][966]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK4_Blade_MontageE9A957124697DF9AD4291D89A55AFBEF.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset'
+[2019.08.24-05.14.43:655][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/ATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.14.43:661][985]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/ATK4_Blade_Montage161C3537461775FBD77A4DB7B91B9160.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/ATK4_Blade_Montage.uasset'
+[2019.08.24-05.15.02:304][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.15.26:988][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK1_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK1_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.15.27:001][893]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK1_Blade_Montage85FCBB4440C93549498C458617A12539.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK1_Blade_Montage.uasset'
+[2019.08.24-05.15.38:645][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK2_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK2_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.15.38:659][273]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK2_Blade_Montage9B9A3DA94368E132E22831A68E7DD829.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK2_Blade_Montage.uasset'
+[2019.08.24-05.15.48:191][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK3_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK3_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.15.48:204][397]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK3_Blade_Montage1BDDA7FE454841AA96ADAFA5BAE39433.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK3_Blade_Montage.uasset'
+[2019.08.24-05.15.51:444][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.15.51:456][780]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK4_Blade_Montage9017E69C4B6CD980F5392A949BF70A39.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK4_Blade_Montage.uasset'
+[2019.08.24-05.16.00:217][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.16.00:230][807]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK4_Blade_Montage9E9B65B24EBAE732347D859A16762147.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK4_Blade_Montage.uasset'
+[2019.08.24-05.16.02:654][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK4_Blade_Montage" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK4_Blade_Montage.uasset" SILENT=true
+[2019.08.24-05.16.02:659][ 90]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK4_Blade_MontageA91CC14948B6A878CCFA118C9CBF2343.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK4_Blade_Montage.uasset'
+[2019.08.24-05.16.12:273][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.08.24-05.16.14:084][217]LogSlate: Window 'Save Content' being destroyed
+[2019.08.24-05.16.14:120][217]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton7D53B094436B679C2E65F085A721A90C.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
