@@ -1585,3 +1585,77 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.24-05.32.46:255][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2019.08.24-05.32.47:057][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2019.08.24-05.32.47:194][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.08.24-05.35.34:103][570]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2019.08.24-05.35.36:222][724]LogSlate: Window 'BP_Player' being destroyed
+[2019.08.24-05.36.39:460][126]LogEditorTransaction: Undo Rename Node
+[2019.08.24-05.36.40:094][170]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2019.08.24-05.36.40:869][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset" SILENT=true
+[2019.08.24-05.36.40:962][241]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/BP_PlayerE3B3AC4E424384EE5FF5C4952B8E237F.tmp' to 'G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset'
+[2019.08.24-05.37.03:778][887]BlueprintLog: New page: Compile BP_Player
+[2019.08.24-05.37.03:983][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.24-05.37.04:487][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset" SILENT=true
+[2019.08.24-05.37.04:579][924]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/BP_Player527994194214BF9808D09A9AE6B60CFA.tmp' to 'G:/UE4Program/ACTGame/Content/Player/BP_Player.uasset'
+[2019.08.24-05.37.05:875][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.24-05.37.05:884][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2019.08.24-05.37.05:884][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.24-05.37.05:884][ 58]PIE: New page: PIE session: Main (Aug 24, 2019, 9:37:05 PM)
+[2019.08.24-05.37.05:885][ 58]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2019.08.24-05.37.05:887][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002635s)
+[2019.08.24-05.37.05:888][ 58]LogAIModule: Creating AISystem for world Main
+[2019.08.24-05.37.05:888][ 58]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.08.24-05.37.05:888][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.003425s)
+[2019.08.24-05.37.05:921][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.08.24-05.37.05:937][ 58]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.24-05.37.05:961][ 58]LogInit: FAudioDevice initialized.
+[2019.08.24-05.37.05:988][ 58]LogLoad: Game class is 'MyGameMode_C'
+[2019.08.24-05.37.05:989][ 58]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2019.08.24-13.37.05
+[2019.08.24-05.37.05:989][ 58]LogWorld: Bringing up level for play took: 0.000488
+[2019.08.24-05.37.06:012][ 58]PIE: Play in editor start time for /Game/UEDPIE_0_Main -0.001
+[2019.08.24-05.37.06:012][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2019.08.24-05.37.24:081][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2019.08.24-05.37.24:081][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.24-05.37.24:109][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.24-05.37.24:110][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Main.Main:PersistentLevel' has LevelScriptBlueprint '/Game/Main.Main:PersistentLevel.Main' with GeneratedClass '/Game/Main.Main_C' with ClassGeneratedBy '/Game/Main.Main:PersistentLevel.Main'
+[2019.08.24-05.37.24:146][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.24-05.37.24:150][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.24-05.37.24:186][221]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.08.24-05.38.14:394][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.38.15:360][942]LogAssetEditorManager: Opening Asset editor for DataTable /Game/Player/BluePrints/AttackTable.AttackTable
+[2019.08.24-05.39.33:676][666]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/Player/Anim/Sword/Special/SATK1_Sword.SATK1_Sword
+[2019.08.24-05.39.33:702][666]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.24-05.39.33:721][666]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.24-05.39.34:004][666]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.24-05.40.44:419][702]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.24-05.44.11:792][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.44.35:533][637]Cmd: TRANSACTION UNDO
+[2019.08.24-05.44.35:533][637]LogEditorTransaction: Undo Translate Socket
+[2019.08.24-05.44.35:613][637]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.24-05.44.35:803][647]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Player/Anim/Blade/Special/SATK1_Blade.SATK1_Blade
+[2019.08.24-05.44.37:122][758]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Player/Anim/Blade/Special/SATK1_Blade.SATK1_Blade
+[2019.08.24-05.44.38:455][901]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/Player/Anim/Blade/Special/SATK1_Blade.SATK1_Blade
+[2019.08.24-05.44.38:784][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.44.57:731][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.45.12:790][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-05.45.57:190][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.08.24-05.45.57:190][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main' took 0.034
+[2019.08.24-05.45.57:191][191]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton] ([1] browsable assets)...
+[2019.08.24-05.45.57:191][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton]
+[2019.08.24-05.45.57:204][191]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_Skeleton_Auto2B7C8D43641D6546AE6FDADB95996D322.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton_Auto2.uasset'
+[2019.08.24-05.45.57:205][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Sword/Special/SATK1_Sword] ([1] browsable assets)...
+[2019.08.24-05.45.57:220][191]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Player/Anim/Sword/Special/SATK1_Sword.SATK1_Sword]
+[2019.08.24-05.45.57:220][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Sword/Special/SATK1_Sword]
+[2019.08.24-05.45.57:220][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Sword/Special/SATK1_Sword" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Sword/Special/SATK1_Sword_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.24-05.45.57:233][191]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK1_Sword_Auto29262276449AE42A1FFA377B6DE9DA0D2.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Sword/Special/SATK1_Sword_Auto2.uasset'
+[2019.08.24-05.45.57:234][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/Anim/Blade/Special/SATK1_Blade] ([1] browsable assets)...
+[2019.08.24-05.45.57:250][191]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Player/Anim/Blade/Special/SATK1_Blade.SATK1_Blade]
+[2019.08.24-05.45.57:250][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/Anim/Blade/Special/SATK1_Blade]
+[2019.08.24-05.45.57:250][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK1_Blade" FILE="G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Special/SATK1_Blade_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.08.24-05.45.57:299][191]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK1_Blade_Auto2DF607F804095E915CD80EAAE73FF3ADB.tmp' to 'G:/UE4Program/ACTGame/Saved/Autosaves/Game/Player/Anim/Blade/Special/SATK1_Blade_Auto2.uasset'
+[2019.08.24-05.45.57:299][191]LogFileHelpers: Auto-saving content packages took 0.108
+[2019.08.24-05.48.08:895][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.08.24-05.48.10:168][ 61]LogSlate: Window 'Save Content' being destroyed
+[2019.08.24-05.48.10:202][ 61]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/Revenant_SkeletonB434BDDD4449BD37CC1B3B84FF0A9626.tmp' to 'G:/UE4Program/ACTGame/Content/ParagonRevenant/Characters/Heroes/Revenant/Meshes/Revenant_Skeleton.uasset'
+[2019.08.24-05.48.10:208][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Blade/Special/SATK1_Blade" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK1_Blade.uasset" SILENT=true
+[2019.08.24-05.48.10:214][ 61]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK1_Blade0104EDFA4070BEEC4EEF9C9E69F3E68A.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Blade/Special/SATK1_Blade.uasset'
+[2019.08.24-05.48.10:218][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/Anim/Sword/Special/SATK1_Sword" FILE="G:/UE4Program/ACTGame/Content/Player/Anim/Sword/Special/SATK1_Sword.uasset" SILENT=true
+[2019.08.24-05.48.10:224][ 61]LogSavePackage: Moving 'G:/UE4Program/ACTGame/Saved/SATK1_SwordFD5540ED40F8B0B2327568B739DDEB81.tmp' to 'G:/UE4Program/ACTGame/Content/Player/Anim/Sword/Special/SATK1_Sword.uasset'
